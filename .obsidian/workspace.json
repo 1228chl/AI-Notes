@@ -179,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,7 +196,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2b9a97cec44bed6",
+  "active": "7f467ad61dfa02b5",
   "lastOpenFiles": [
     "欢迎.md"
   ]
