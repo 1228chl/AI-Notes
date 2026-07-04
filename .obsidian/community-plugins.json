@@ -11,5 +11,6 @@
   "obsidian-outliner",
   "obsidian-pandoc",
   "obsidian-style-settings",
-  "templater-obsidian"
+  "templater-obsidian",
+  "dataview"
 ]

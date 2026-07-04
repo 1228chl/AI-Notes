@@ -118,49 +118,6 @@
             }
           },
           {
-            "id": "d5f23aae9c81c7dc",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "欢迎.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "欢迎 的出链列表"
-            }
-          },
-          {
-            "id": "16e13e27058a1b0a",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "标签"
-            }
-          },
-          {
-            "id": "00ac8cadea94f6a8",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "添加笔记属性"
-            }
-          },
-          {
             "id": "c420dafa94daba37",
             "type": "leaf",
             "state": {
@@ -179,7 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 315.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -196,8 +153,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7f467ad61dfa02b5",
+  "active": "327e78898113a51f",
   "lastOpenFiles": [
-    "欢迎.md"
+    "Templates/Note-Template.md",
+    "欢迎.md",
+    "Templates",
+    "未命名.base",
+    "KnowLedgeChunk"
   ]
 }
