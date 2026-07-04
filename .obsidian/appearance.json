@@ -6,5 +6,8 @@
     "image-center",
     "inline-code",
     "mathlive-light-fix"
-  ]
+  ],
+  "interfaceFontFamily": "寒蝉锦书宋,Times New Roman",
+  "textFontFamily": "寒蝉锦书宋,Times New Roman",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Propo"
 }
