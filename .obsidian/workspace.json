@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "95e7536d72e8c00e",
@@ -156,11 +155,41 @@
   },
   "active": "7f467ad61dfa02b5",
   "lastOpenFiles": [
-    "欢迎.md",
-    "提示词.md",
-    "Templates/Note-Template.md",
-    "Templates",
-    "未命名.base",
-    "KnowLedgeChunk"
+    "New-Notes/Atomic-Cards/README.md",
+    "New-Notes/Atomic-Cards/10-RAG检索增强生成.md",
+    "New-Notes/Atomic-Cards/08-过拟合与欠拟合.md",
+    "New-Notes/Atomic-Cards/09-注意力机制.md",
+    "New-Notes/Atomic-Cards/07-BERT.md",
+    "New-Notes/Atomic-Cards/05-卷积神经网络.md",
+    "New-Notes/Atomic-Cards/06-Transformer.md",
+    "New-Notes/Atomic-Cards/04-神经网络.md",
+    "New-Notes/Atomic-Cards/03-梯度下降.md",
+    "New-Notes/Atomic-Cards/02-线性回归.md",
+    "New-Notes/Atomic-Cards/01-机器学习定义.md",
+    "New-Notes/10-RAG/04-AI Agent.md",
+    "New-Notes/10-RAG/03-RAG实现.md",
+    "New-Notes/10-RAG/02-LangChain基础.md",
+    "New-Notes/09-Python/03-迭代器与生成器.md",
+    "New-Notes/09-Python/01-面向对象编程.md",
+    "New-Notes/10-RAG/01-RAG概述.md",
+    "New-Notes/09-Python/02-装饰器.md",
+    "New-Notes/08-数学/03-微积分.md",
+    "New-Notes/08-数学/02-概率统计.md",
+    "New-Notes/07-Agent/03-大模型幻觉问题.md",
+    "New-Notes/07-Agent/01-大模型发展史.md",
+    "New-Notes/07-Agent/02-提示词工程.md",
+    "New-Notes/08-数学/01-线性代数.md",
+    "New-Notes/06-数据分析/03-Matplotlib可视化.md",
+    "New-Notes/05-NLP/05-BERT模型.md",
+    "New-Notes/Atomic-Cards",
+    "New-Notes/10-RAG",
+    "New-Notes/09-Python",
+    "New-Notes/08-数学",
+    "New-Notes/07-Agent",
+    "New-Notes/06-数据分析",
+    "New-Notes/05-NLP",
+    "New-Notes/04-深度学习",
+    "New-Notes/03-机器学习",
+    "New-Notes/02-LaTeX"
   ]
 }
