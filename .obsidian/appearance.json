@@ -9,5 +9,6 @@
   ],
   "interfaceFontFamily": "寒蝉锦书宋,Times New Roman",
   "textFontFamily": "寒蝉锦书宋,Times New Roman",
-  "monospaceFontFamily": "JetBrainsMono Nerd Font Propo"
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Propo",
+  "baseFontSize": 20
 }

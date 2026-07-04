@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New-Notes/02-机器学习基础.md",
+                "file": "New-Notes/Atomic-Cards/03-梯度下降.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02-机器学习基础"
+              "title": "03-梯度下降"
             }
           }
         ],
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New-Notes/02-机器学习基础.md",
+                "file": "New-Notes/Atomic-Cards/03-梯度下降.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "02-机器学习基础 的反向链接列表"
+              "title": "03-梯度下降 的反向链接列表"
             }
           },
           {
@@ -138,21 +138,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "欢迎.md",
+                "file": "New-Notes/Atomic-Cards/03-梯度下降.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "欢迎 的大纲"
+              "title": "03-梯度下降 的大纲"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 315.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,7 +170,10 @@
   },
   "active": "89fc022061d75344",
   "lastOpenFiles": [
+    "New-Notes/Atomic-Cards/02-线性回归.md",
     "New-Notes/Atomic-Cards/01-机器学习定义.md",
+    "New-Notes/03-机器学习/01-机器学习定义.md",
+    "New-Notes/02-机器学习基础.md",
     "提示词.md",
     "注意力机制.md",
     "New-Notes/Atomic-Cards/README.md",
@@ -182,7 +185,6 @@
     "New-Notes/Atomic-Cards/06-Transformer.md",
     "New-Notes/Atomic-Cards/04-神经网络.md",
     "New-Notes/Atomic-Cards/03-梯度下降.md",
-    "New-Notes/Atomic-Cards/02-线性回归.md",
     "New-Notes/10-RAG/04-AI Agent.md",
     "New-Notes/10-RAG/03-RAG实现.md",
     "New-Notes/10-RAG/02-LangChain基础.md",
@@ -194,8 +196,6 @@
     "New-Notes/08-数学/02-概率统计.md",
     "New-Notes/07-Agent/03-大模型幻觉问题.md",
     "New-Notes/07-Agent/01-大模型发展史.md",
-    "New-Notes/07-Agent/02-提示词工程.md",
-    "New-Notes/08-数学/01-线性代数.md",
     "New-Notes/Atomic-Cards",
     "New-Notes/10-RAG",
     "New-Notes/09-Python",
