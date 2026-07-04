@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "欢迎.md",
+                "file": "提示词.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "欢迎"
+              "title": "提示词"
             }
           }
         ]
@@ -136,8 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5,
-    "collapsed": true
+    "width": 315.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -153,10 +152,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "327e78898113a51f",
+  "active": "7f467ad61dfa02b5",
   "lastOpenFiles": [
-    "Templates/Note-Template.md",
     "欢迎.md",
+    "提示词.md",
+    "Templates/Note-Template.md",
     "Templates",
     "未命名.base",
     "KnowLedgeChunk"
