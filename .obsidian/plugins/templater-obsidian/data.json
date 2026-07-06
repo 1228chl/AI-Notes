@@ -16,7 +16,7 @@
   "folder_templates": [
     {
       "folder": "/",
-      "template": "Templates/Note-Template.md"
+      "template": "Templates/Note_Templater.md"
     }
   ],
   "enable_file_templates": false,
